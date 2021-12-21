@@ -25,9 +25,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     echo $_SERVER['HTTP_ORIGIN'];
 
     if(isset($_SERVER['HTTP_ORIGIN']) && in_array($_SERVER['HTTP_ORIGIN'], $allowed)) {
-        $fp = fopen('data/users.txt', 'a');
-        fwrite($fp, encrypt('User'));
-        fclose($fp);
+
+        $file = "/data/users.txt";
+        $current = file_get_contents($file);
+        $enc = encrypt('Hello!');
+        $current .= $enc . "\n";
+        $current .= decrypt($enc) . "\n";
+        file_put_contents($file, $current);
 
         echo "OK!";
 
