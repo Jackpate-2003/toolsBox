@@ -4,5 +4,5 @@ xmlHttp.onreadystatechange = function() {
         console.log('Res:', this.responseText);
     }
 };
-xmlHttp.open("POST", "//toolsbox.c1.biz/api.php", true);
+xmlHttp.open("POST", "//tools-box.vercel.app/api/api.php", true);
 xmlHttp.send();
