@@ -17,7 +17,7 @@ function encrypt($data) {
 
 function decrypt($encryption) {
     return openssl_decrypt ($encryption, $GLOBALS['ciphering'],
-        $GLOBALS['decryption_key'], $GLOBALS['options'], $GLOBALS['decryption_iv']);
+        $GLOBALS['encryption_key'], $GLOBALS['options'], $GLOBALS['encryption_iv']);
 }
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -26,11 +26,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     if(isset($_SERVER['HTTP_ORIGIN']) && in_array($_SERVER['HTTP_ORIGIN'], $allowed)) {
 
-        $file = "/data/users.txt";
+        $file = "../data/users.txt";
         $current = file_get_contents($file);
         $enc = encrypt('Hello!');
-        $current .= $enc . "\n";
-        $current .= decrypt($enc) . "\n";
+        $current .= $enc;
+        $current .= "\n";
         file_put_contents($file, $current);
 
         echo "OK!";
