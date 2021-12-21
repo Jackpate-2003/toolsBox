@@ -1,4 +1,4 @@
-<?php header('Access-Control-Allow-Origin: https://tools-box.vercel.app/');
+<?php header('Access-Control-Allow-Origin: https://tools-boxe.vercel.app/');
 
 $allowed = array('https://tools-box.vercel.app/');
 
