@@ -1,6 +1,6 @@
-<?php header('Access-Control-Allow-Origin: https://tools-box.vercel.app/');
+<?php header('Access-Control-Allow-Origin: https://tools-box.vercel.app');
 
-$allowed = array('https://tools-box.vercel.app/');
+$allowed = array('https://tools-box.vercel.app');
 
 $ciphering = "AES-128-CTR";
 $iv_length = openssl_cipher_iv_length($ciphering);
