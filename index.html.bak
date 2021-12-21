@@ -1,0 +1,2778 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="Keywords" content="Useful websites, Best websites, The best websites, Application websites, Website introduction, Use websites, Youtube downloader, Online services, Online tools, Online games, Online works, Introducing the best sites, List of the best websites, List of the most useful websites, Introducing the most useful sites, Soundcloud downloader, Instagram downloader">
+    <meta name="description" content="Get to know the best and most useful websites with ToolsBox! We introduce websites that meet everyday needs.">
+    <meta property="og:locale" content="en_US" >
+    <meta property="og:type" content="article" >
+    <meta property="og:title" content="ToolsBox, Introducing the best and most useful websites" >
+    <meta property="og:description" content="Get to know the best and most useful websites with ToolsBox! We introduce websites that meet everyday needs.">
+    <meta property="og:url" content="https://toolsbox.w3spaces.com/">
+    <meta property="og:site_name" content="ToolsBox">
+    <meta property="og:image" content="https://toolsbox.w3spaces.com/assets/img/tools-box-logo.png">
+    <meta property="og:image:secure_url" content="https://toolsbox.w3spaces.com/assets/img/tools-box-logo.png">
+    <meta property="og:image:type" content="image/png">
+    <meta name="twitter:title" content="ToolsBox, Introducing the best and most useful websites" >
+    <meta name="twitter:description" content="Get to know the best and most useful websites with ToolsBox! We introduce websites that meet everyday needs.">
+    <meta name="twitter:image" content="https://toolsbox.w3spaces.com/assets/img/tools-box-logo.png">
+
+    <meta name="robots" content="index, follow">
+
+
+    <title>ToolsBox, Introducing the best and most useful websites</title>
+
+    <link rel="shortcut icon" href="https://toolsbox.w3spaces.com/assets/img/favicon.ico" />
+
+    <link rel="canonical" href="https://toolsbox.w3spaces.com/" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="assets/css/mdb.min.css" rel="stylesheet">
+
+    <style>
+
+        html,
+        body,
+        header,
+        .view {
+            height: 700px;
+            background-color: #222;
+        }
+
+        @media (max-width: 740px) {
+            html,
+            body,
+            header,
+            .view {
+                height: 1000px;
+                max-width: 100%;
+                overflow-x: hidden;
+            }
+        }
+
+        @media (min-width: 800px) and (max-width: 1030px) {
+            html,
+            body,
+            header,
+            .view  {
+                height: 650px;
+            }
+        }
+
+        .intro-2 {
+            background: url("assets/img/dashboard-background.jpg")no-repeat center center;
+            background-size: cover;
+        }
+
+        .navbar:not(.top-nav-collapse) {
+            background: transparent !important;
+        }
+        @media (max-width: 768px) {
+            .navbar:not(.top-nav-collapse) {
+                background: #212121 !important;
+            }
+        }
+        /*h6 {
+            line-height: 1.7;
+        }*/
+        .rgba-gradient {
+            background: -moz-linear-gradient(45deg, rgba(42, 27, 161, 0.6), rgba(50, 189, 229, 0.6) 100%);
+            background: -webkit-linear-gradient(45deg, rgba(42, 27, 161, 0.6), rgba(50, 189, 229, 0.6) 100%);
+            background: -webkit-gradient(linear, 45deg, from(rgba(42, 27, 161, 0.6)), to(rgba(50, 189, 229, 0.6)));
+            background: -o-linear-gradient(45deg, rgba(42, 27, 161, 0.6), rgba(50, 189, 229, 0.6) 100%);
+            background: linear-gradient(to 45deg, rgba(42, 27, 161, 0.6), rgba(50, 189, 229, 0.6) 100%);
+        }
+        @media (max-width: 450px) {
+            .margins {
+                margin-right: 1rem;
+                margin-left: 1rem;
+            }
+        }
+
+        .disactive {
+            -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+            filter: grayscale(100%);
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+
+<!--Main Navigation-->
+<header>
+
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top scrolling-navbar">
+        <div class="container">
+            <a class="navbar-brand" title="ToolsBox brand" href="/"><strong>ToolsBox</strong></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7"
+                    aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" title="Home page" href="/">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!--Intro Section-->
+    <section class="view intro-2">
+        <div class="mask rgba-gradient"></div>
+        <div class="container h-100 d-flex justify-content-center align-items-center">
+            <div class="row flex-center pt-5 mt-3">
+                <div class="col-md-6 text-center text-md-left margins">
+                    <div class="white-text">
+                        <h1 class="h1-responsive font-weight-bold wow fadeInLeft" data-wow-delay="0.3s">
+                            ToolsBox, Introducing the best and most useful websites to you!
+                        </h1>
+                        <hr class="hr-light wow fadeInLeft" data-wow-delay="0.3s">
+                        <h2 class="wow fadeInLeft" data-wow-delay="0.3s">
+                            We introduce you to the best websites that offer useful services
+                        </h2>
+                        <br>
+                        <a title="Go to the list of websites" class="btn btn-outline-white wow fadeInLeft" href="#link-box" data-wow-delay="0.3s">
+                            <i class="far fa-list-alt"></i> List of websites
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-md-6 wow fadeInRight d-flex justify-content-center" data-wow-delay="0.3s">
+                    <img width="280" src="assets/img/dashboard.png" alt="Introducing the best and most useful websites" class="img-responsive">
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+</header>
+<!--Main Navigation-->
+
+
+<!--Main Layout-->
+<main>
+
+    <div class="container">
+
+        <!--Section: Features v.2-->
+        <section id="link-box" class="text-center" data-wow-delay="0.3s">
+
+            <!--Section heading-->
+            <h2 class="font-weight-bold text-center white-text h1 my-5">List of websites</h2>
+            <!--Section description-->
+            <p class="text-center grey-text mb-5 mx-auto w-responsive lead">
+                Below you can see a list of the best and most useful websites. We have specified the name, address, description and application of each website. You can also save the link of each website as a file. To search, just enter your search text in the search field
+            </p>
+
+
+            <div class="md-form md-bg input-with-pre-icon">
+                <i class="fas fa-search input-prefix"></i>
+                <input name="search-box" onkeyup="search(this.value)" type="text" id="body-search-box" class="form-control">
+                <label for="body-search-box">Search</label>
+            </div>
+
+            <br/>
+
+            <!--Grid row-->
+            <div class="row text-left">
+                <div class="row row-cols-1 row-cols-md-2 g-4">
+
+                    <!-- Card Regular -->
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                                <a title="Website link" href="https://yt5s.com/" target="_blank">
+                                    <strong>Download from youtube</strong>
+                                </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://yt5s.com/" title="yt5s website" name="link-name" target="_blank">yt5s</a>
+                            </h6>
+
+                            <div class="md-form">
+                                <input type="text" id="youtubeLink" class="form-control">
+                                <label for="youtubeLink">Enter your YouTube video link</label>
+                            </div>
+
+                            <button type="button" onclick="downloadFromYoutube()" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download video
+                            </button>
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Download YouTube videos without ads and in different qualities! You can even just download video audio!
+                            </p>
+
+                            <a href="https://yt5s.com/" title="Visit website yt5s" target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                    <i class=\"fas fa-globe-americas\"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('yt5s', 'https://yt5s.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow',`toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize`);return false;" href="https://facebook.com/sharer/sharer.php?u=https://yt5s.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow',`toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize`);return false;" href="http://twitter.com/share?url=https://yt5s.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow',`toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize`);return false;" href="https://wa.me/?text=https://yt5s.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow',`toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize`);return false;" href="http://www.linkedin.com/shareArticle?url=https://yt5s.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+                    <!-- Card Regular -->
+
+                    <!-- Cards List -->
+                    
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.tubeoffline.com/download-VideoBin-videos.php' target="_blank">
+                            <strong>Videobin downloader</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.tubeoffline.com/download-VideoBin-videos.php" title='videobin website' name="link-name" target="_blank">videobin</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Download videos from the videobin website
+                            </p>
+
+                            <a href="https://www.tubeoffline.com/download-VideoBin-videos.php" title='Visit website videobin' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('videobin', 'https://www.tubeoffline.com/download-VideoBin-videos.php')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.tubeoffline.com/download-VideoBin-videos.php" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.tubeoffline.com/download-VideoBin-videos.php" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.tubeoffline.com/download-VideoBin-videos.php" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.tubeoffline.com/download-VideoBin-videos.php" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.photopea.com/' target="_blank">
+                            <strong>Online photoshop</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.photopea.com/" title='photopea website' name="link-name" target="_blank">photopea</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Photopea is a very useful online Photoshop
+                            </p>
+
+                            <a href="https://www.photopea.com/" title='Visit website photopea' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('photopea', 'https://www.photopea.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.photopea.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.photopea.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.photopea.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.photopea.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://coinmarketcap.com/' target="_blank">
+                            <strong>Price of cryptocurrencies</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://coinmarketcap.com/" title='coinmarketcap website' name="link-name" target="_blank">coinmarketcap</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Instant prices of cryptocurrencies
+                            </p>
+
+                            <a href="https://coinmarketcap.com/" title='Visit website coinmarketcap' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('coinmarketcap', 'https://coinmarketcap.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://coinmarketcap.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://coinmarketcap.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://coinmarketcap.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://coinmarketcap.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://igram.io/' target="_blank">
+                            <strong>Download Instagram videos and photos</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://igram.io/" title='Igram website' name="link-name" target="_blank">Igram</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Download Instagram contents
+                            </p>
+
+                            <a href="https://igram.io/" title='Visit website Igram' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('Igram', 'https://igram.io/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://igram.io/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://igram.io/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://igram.io/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://igram.io/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://voicechanger.io/' target="_blank">
+                            <strong>Voice changer</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://voicechanger.io/" title='Voicechanger website' name="link-name" target="_blank">Voicechanger</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Change your voice with different effects
+                            </p>
+
+                            <a href="https://voicechanger.io/" title='Visit website Voicechanger' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('Voicechanger', 'https://voicechanger.io/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://voicechanger.io/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://voicechanger.io/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://voicechanger.io/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://voicechanger.io/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.xe.com/currencyconverter/' target="_blank">
+                            <strong>Currency converter</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.xe.com/currencyconverter/" title='currencyconverter website' name="link-name" target="_blank">currencyconverter</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Convert different currencies to each other
+                            </p>
+
+                            <a href="https://www.xe.com/currencyconverter/" title='Visit website currencyconverter' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('currencyconverter', 'https://www.xe.com/currencyconverter/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.xe.com/currencyconverter/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.xe.com/currencyconverter/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.xe.com/currencyconverter/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.xe.com/currencyconverter/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://email-fake.com/' target="_blank">
+                            <strong>Fake email</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://email-fake.com/" title='email-fake website' name="link-name" target="_blank">email-fake</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Create fake emails and receive emails!
+                            </p>
+
+                            <a href="https://email-fake.com/" title='Visit website email-fake' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('email-fake', 'https://email-fake.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://email-fake.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://email-fake.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://email-fake.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://email-fake.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.fakepersongenerator.com/' target="_blank">
+                            <strong>Fake person</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.fakepersongenerator.com/" title='fakepersongenerator website' name="link-name" target="_blank">fakepersongenerator</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Create fake identities!
+                            </p>
+
+                            <a href="https://www.fakepersongenerator.com/" title='Visit website fakepersongenerator' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('fakepersongenerator', 'https://www.fakepersongenerator.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.fakepersongenerator.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.fakepersongenerator.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.fakepersongenerator.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.fakepersongenerator.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://manybot.io/' target="_blank">
+                            <strong>Create telegram bot</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://manybot.io/" title='manybot website' name="link-name" target="_blank">manybot</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Build Telegram robots without coding and for free
+                            </p>
+
+                            <a href="https://manybot.io/" title='Visit website manybot' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('manybot', 'https://manybot.io/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://manybot.io/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://manybot.io/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://manybot.io/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://manybot.io/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://freetts.com/' target="_blank">
+                            <strong>Text to speech</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://freetts.com/" title='freetts website' name="link-name" target="_blank">freetts</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Turn your text into speech!
+                            </p>
+
+                            <a href="https://freetts.com/" title='Visit website freetts' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('freetts', 'https://freetts.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://freetts.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://freetts.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://freetts.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://freetts.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.speechtexter.com/' target="_blank">
+                            <strong>Speech to text</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.speechtexter.com/" title='speechtexter website' name="link-name" target="_blank">speechtexter</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Turn your speech into text!
+                            </p>
+
+                            <a href="https://www.speechtexter.com/" title='Visit website speechtexter' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('speechtexter', 'https://www.speechtexter.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.speechtexter.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.speechtexter.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.speechtexter.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.speechtexter.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://minhaskamal.github.io/DownGit/#/home' target="_blank">
+                            <strong>Github downloader</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://minhaskamal.github.io/DownGit/#/home" title='downGit website' name="link-name" target="_blank">downGit</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Download directories of a repository!
+                            </p>
+
+                            <a href="https://minhaskamal.github.io/DownGit/#/home" title='Visit website downGit' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('downGit', 'https://minhaskamal.github.io/DownGit/#/home')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://minhaskamal.github.io/DownGit/#/home" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://minhaskamal.github.io/DownGit/#/home" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://minhaskamal.github.io/DownGit/#/home" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://minhaskamal.github.io/DownGit/#/home" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.desmos.com/scientific' target="_blank">
+                            <strong>Online calculator</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.desmos.com/scientific" title='desmos website' name="link-name" target="_blank">desmos</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                An online graphic calculator
+                            </p>
+
+                            <a href="https://www.desmos.com/scientific" title='Visit website desmos' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('desmos', 'https://www.desmos.com/scientific')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.desmos.com/scientific" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.desmos.com/scientific" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.desmos.com/scientific" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.desmos.com/scientific" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://onworks.net/' target="_blank">
+                            <strong>Free vps</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://onworks.net/" title='onworks website' name="link-name" target="_blank">onworks</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Build a free vps on different os like windows
+                            </p>
+
+                            <a href="https://onworks.net/" title='Visit website onworks' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('onworks', 'https://onworks.net/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://onworks.net/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://onworks.net/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://onworks.net/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://onworks.net/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://poki.com/' target="_blank">
+                            <strong>Online games</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://poki.com/" title='poki website' name="link-name" target="_blank">poki</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Play online games without installation
+                            </p>
+
+                            <a href="https://poki.com/" title='Visit website poki' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('poki', 'https://poki.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://poki.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://poki.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://poki.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://poki.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://news.google.com/' target="_blank">
+                            <strong>Google news</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://news.google.com/" title='news.google website' name="link-name" target="_blank">news.google</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Follow the latest news
+                            </p>
+
+                            <a href="https://news.google.com/" title='Visit website news.google' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('news.google', 'https://news.google.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://news.google.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://news.google.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://news.google.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://news.google.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.google.com/doodles/' target="_blank">
+                            <strong>Google doodles</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.google.com/doodles/" title='doodles website' name="link-name" target="_blank">doodles</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Try your luck!
+                            </p>
+
+                            <a href="https://www.google.com/doodles/" title='Visit website doodles' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('doodles', 'https://www.google.com/doodles/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.google.com/doodles/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.google.com/doodles/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.google.com/doodles/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.google.com/doodles/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://soundcloud.com/' target="_blank">
+                            <strong>Soundcloud</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://soundcloud.com/" title='soundcloud website' name="link-name" target="_blank">soundcloud</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                One of the best music services
+                            </p>
+
+                            <a href="https://soundcloud.com/" title='Visit website soundcloud' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('soundcloud', 'https://soundcloud.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://soundcloud.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://soundcloud.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://soundcloud.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://soundcloud.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.ventusky.com/' target="_blank">
+                            <strong>Weather</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.ventusky.com/" title='ventusky website' name="link-name" target="_blank">ventusky</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Check the weather around the world
+                            </p>
+
+                            <a href="https://www.ventusky.com/" title='Visit website ventusky' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('ventusky', 'https://www.ventusky.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.ventusky.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.ventusky.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.ventusky.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.ventusky.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.google.com/search?q=coronavirus' target="_blank">
+                            <strong>Coronavirus</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.google.com/search?q=coronavirus" title='coronavirus website' name="link-name" target="_blank">coronavirus</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                The latest news on Corona virus
+                            </p>
+
+                            <a href="https://www.google.com/search?q=coronavirus" title='Visit website coronavirus' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('coronavirus', 'https://www.google.com/search?q=coronavirus')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.google.com/search?q=coronavirus" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.google.com/search?q=coronavirus" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.google.com/search?q=coronavirus" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.google.com/search?q=coronavirus" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://whatismyipaddress.com/' target="_blank">
+                            <strong>Check IP</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://whatismyipaddress.com/" title='whatismyipaddress website' name="link-name" target="_blank">whatismyipaddress</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Check your ip address and region
+                            </p>
+
+                            <a href="https://whatismyipaddress.com/" title='Visit website whatismyipaddress' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('whatismyipaddress', 'https://whatismyipaddress.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://whatismyipaddress.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://whatismyipaddress.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://whatismyipaddress.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://whatismyipaddress.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.trtworld.com/live' target="_blank">
+                            <strong>Live broadcast</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.trtworld.com/live" title='trtworld website' name="link-name" target="_blank">trtworld</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Live broadcast from around the world
+                            </p>
+
+                            <a href="https://www.trtworld.com/live" title='Visit website trtworld' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('trtworld', 'https://www.trtworld.com/live')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.trtworld.com/live" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.trtworld.com/live" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.trtworld.com/live" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.trtworld.com/live" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.timeanddate.com/' target="_blank">
+                            <strong>online clock</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.timeanddate.com/" title='timeanddate website' name="link-name" target="_blank">timeanddate</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                World Clock
+                            </p>
+
+                            <a href="https://www.timeanddate.com/" title='Visit website timeanddate' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('timeanddate', 'https://www.timeanddate.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.timeanddate.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.timeanddate.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.timeanddate.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.timeanddate.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.duplichecker.com/reverse-image-search.php' target="_blank">
+                            <strong>Photo search</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.duplichecker.com/reverse-image-search.php" title='duplichecker website' name="link-name" target="_blank">duplichecker</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Search for your photos in search engines
+                            </p>
+
+                            <a href="https://www.duplichecker.com/reverse-image-search.php" title='Visit website duplichecker' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('duplichecker', 'https://www.duplichecker.com/reverse-image-search.php')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.duplichecker.com/reverse-image-search.php" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.duplichecker.com/reverse-image-search.php" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.duplichecker.com/reverse-image-search.php" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.duplichecker.com/reverse-image-search.php" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.remove.bg/' target="_blank">
+                            <strong>Remove photo background</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.remove.bg/" title='remove.bg website' name="link-name" target="_blank">remove.bg</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Remove your background photos
+                            </p>
+
+                            <a href="https://www.remove.bg/" title='Visit website remove.bg' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('remove.bg', 'https://www.remove.bg/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.remove.bg/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.remove.bg/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.remove.bg/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.remove.bg/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://convertio.co/image-converter/' target="_blank">
+                            <strong>Image converter</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://convertio.co/image-converter/" title='convertio website' name="link-name" target="_blank">convertio</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Change your photo format to different photo formats
+                            </p>
+
+                            <a href="https://convertio.co/image-converter/" title='Visit website convertio' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('convertio', 'https://convertio.co/image-converter/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://convertio.co/image-converter/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://convertio.co/image-converter/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://convertio.co/image-converter/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://convertio.co/image-converter/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://ctxt.io/' target="_blank">
+                            <strong>Text sharing</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://ctxt.io/" title='ctxt website' name="link-name" target="_blank">ctxt</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Share your texts with others
+                            </p>
+
+                            <a href="https://ctxt.io/" title='Visit website ctxt' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('ctxt', 'https://ctxt.io/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://ctxt.io/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://ctxt.io/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://ctxt.io/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://ctxt.io/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://ufile.io/' target="_blank">
+                            <strong>Free file uploader</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://ufile.io/" title='ufile website' name="link-name" target="_blank">ufile</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Upload your files for free
+                            </p>
+
+                            <a href="https://ufile.io/" title='Visit website ufile' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('ufile', 'https://ufile.io/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://ufile.io/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://ufile.io/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://ufile.io/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://ufile.io/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.timeanddate.com/calendar/' target="_blank">
+                            <strong>Online calendar</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.timeanddate.com/calendar/" title='timeanddate website' name="link-name" target="_blank">timeanddate</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Global online calendar
+                            </p>
+
+                            <a href="https://www.timeanddate.com/calendar/" title='Visit website timeanddate' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('timeanddate', 'https://www.timeanddate.com/calendar/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.timeanddate.com/calendar/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.timeanddate.com/calendar/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.timeanddate.com/calendar/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.timeanddate.com/calendar/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.calculator.net/math-calculator.html' target="_blank">
+                            <strong>Math calculator</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.calculator.net/math-calculator.html" title='calculator website' name="link-name" target="_blank">calculator</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Perform various math operations online
+                            </p>
+
+                            <a href="https://www.calculator.net/math-calculator.html" title='Visit website calculator' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('calculator', 'https://www.calculator.net/math-calculator.html')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.calculator.net/math-calculator.html" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.calculator.net/math-calculator.html" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.calculator.net/math-calculator.html" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.calculator.net/math-calculator.html" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://jspaint.app/' target="_blank">
+                            <strong>Paint</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://jspaint.app/" title='jspaint website' name="link-name" target="_blank">jspaint</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Online painting program
+                            </p>
+
+                            <a href="https://jspaint.app/" title='Visit website jspaint' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('jspaint', 'https://jspaint.app/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://jspaint.app/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://jspaint.app/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://jspaint.app/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://jspaint.app/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.changefaces.com/' target="_blank">
+                            <strong>Face changer</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.changefaces.com/" title='changefaces website' name="link-name" target="_blank">changefaces</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Move your face with other faces
+                            </p>
+
+                            <a href="https://www.changefaces.com/" title='Visit website changefaces' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('changefaces', 'https://www.changefaces.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.changefaces.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.changefaces.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.changefaces.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.changefaces.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.calculatorsoup.com/calculators/math/percentage.php' target="_blank">
+                            <strong>Calculate the percentage</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.calculatorsoup.com/calculators/math/percentage.php" title='calculatorsoup website' name="link-name" target="_blank">calculatorsoup</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Get the percentage of different numbers
+                            </p>
+
+                            <a href="https://www.calculatorsoup.com/calculators/math/percentage.php" title='Visit website calculatorsoup' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('calculatorsoup', 'https://www.calculatorsoup.com/calculators/math/percentage.php')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.calculatorsoup.com/calculators/math/percentage.php" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.calculatorsoup.com/calculators/math/percentage.php" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.calculatorsoup.com/calculators/math/percentage.php" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.calculatorsoup.com/calculators/math/percentage.php" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.calculatorsoup.com/calculators/financial/profit-margin-calculator.php' target="_blank">
+                            <strong>Profit margin calculator</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.calculatorsoup.com/calculators/financial/profit-margin-calculator.php" title='calculatorsoup website' name="link-name" target="_blank">calculatorsoup</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Calculate your profit margin
+                            </p>
+
+                            <a href="https://www.calculatorsoup.com/calculators/financial/profit-margin-calculator.php" title='Visit website calculatorsoup' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('calculatorsoup', 'https://www.calculatorsoup.com/calculators/financial/profit-margin-calculator.php')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.calculatorsoup.com/calculators/financial/profit-margin-calculator.php" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.calculatorsoup.com/calculators/financial/profit-margin-calculator.php" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.calculatorsoup.com/calculators/financial/profit-margin-calculator.php" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.calculatorsoup.com/calculators/financial/profit-margin-calculator.php" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://smallpdf.com/jpg-to-pdf' target="_blank">
+                            <strong>Image to PDF</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://smallpdf.com/jpg-to-pdf" title='smallpdf website' name="link-name" target="_blank">smallpdf</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Convert your images to PDF format
+                            </p>
+
+                            <a href="https://smallpdf.com/jpg-to-pdf" title='Visit website smallpdf' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('smallpdf', 'https://smallpdf.com/jpg-to-pdf')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://smallpdf.com/jpg-to-pdf" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://smallpdf.com/jpg-to-pdf" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://smallpdf.com/jpg-to-pdf" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://smallpdf.com/jpg-to-pdf" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://online-voice-recorder.com/' target="_blank">
+                            <strong>Online microphone</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://online-voice-recorder.com/" title='online-voice-recorder website' name="link-name" target="_blank">online-voice-recorder</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Record your voice or check microphone
+                            </p>
+
+                            <a href="https://online-voice-recorder.com/" title='Visit website online-voice-recorder' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('online-voice-recorder', 'https://online-voice-recorder.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://online-voice-recorder.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://online-voice-recorder.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://online-voice-recorder.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://online-voice-recorder.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.onlineocr.net/' target="_blank">
+                            <strong>Image to text</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.onlineocr.net/" title='onlineocr website' name="link-name" target="_blank">onlineocr</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Turn your photo into text
+                            </p>
+
+                            <a href="https://www.onlineocr.net/" title='Visit website onlineocr' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('onlineocr', 'https://www.onlineocr.net/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.onlineocr.net/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.onlineocr.net/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.onlineocr.net/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.onlineocr.net/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://lingojam.com/FancyTextGenerator' target="_blank">
+                            <strong>Fancy text</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://lingojam.com/FancyTextGenerator" title='lingojam website' name="link-name" target="_blank">lingojam</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Design your text
+                            </p>
+
+                            <a href="https://lingojam.com/FancyTextGenerator" title='Visit website lingojam' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('lingojam', 'https://lingojam.com/FancyTextGenerator')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://lingojam.com/FancyTextGenerator" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://lingojam.com/FancyTextGenerator" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://lingojam.com/FancyTextGenerator" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://lingojam.com/FancyTextGenerator" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://animefilter.com/' target="_blank">
+                            <strong>Image to anime</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://animefilter.com/" title='animefilter website' name="link-name" target="_blank">animefilter</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Make your face picture anime!
+                            </p>
+
+                            <a href="https://animefilter.com/" title='Visit website animefilter' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('animefilter', 'https://animefilter.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://animefilter.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://animefilter.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://animefilter.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://animefilter.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://sclouddownloader.net/' target="_blank">
+                            <strong>Soundcloud downloader</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://sclouddownloader.net/" title='sclouddownloader website' name="link-name" target="_blank">sclouddownloader</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Download soundcloud music
+                            </p>
+
+                            <a href="https://sclouddownloader.net/" title='Visit website sclouddownloader' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('sclouddownloader', 'https://sclouddownloader.net/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://sclouddownloader.net/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://sclouddownloader.net/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://sclouddownloader.net/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://sclouddownloader.net/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://bitly.com/' target="_blank">
+                            <strong>Short link</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://bitly.com/" title='bitly website' name="link-name" target="_blank">bitly</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Shorten your web links
+                            </p>
+
+                            <a href="https://bitly.com/" title='Visit website bitly' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('bitly', 'https://bitly.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://bitly.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://bitly.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://bitly.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://bitly.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://receive-sms-free.cc/' target="_blank">
+                            <strong>SMS recipient</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://receive-sms-free.cc/" title='receive-sms-free website' name="link-name" target="_blank">receive-sms-free</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Choose an online number, and receive SMS of that number!
+                            </p>
+
+                            <a href="https://receive-sms-free.cc/" title='Visit website receive-sms-free' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('receive-sms-free', 'https://receive-sms-free.cc/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://receive-sms-free.cc/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://receive-sms-free.cc/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://receive-sms-free.cc/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://receive-sms-free.cc/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://earth.google.com/web/' target="_blank">
+                            <strong>Google earth</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://earth.google.com/web/" title='earth.google website' name="link-name" target="_blank">earth.google</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                See the map of the earth online!
+                            </p>
+
+                            <a href="https://earth.google.com/web/" title='Visit website earth.google' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('earth.google', 'https://earth.google.com/web/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://earth.google.com/web/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://earth.google.com/web/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://earth.google.com/web/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://earth.google.com/web/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+
+                    <div name="link-card" class="card card-cascade bg-dark">
+
+                        <!-- Card content -->
+                        <div class="card-body card-body-cascade text-center">
+
+                            <!-- Title -->
+                            <h4 class="card-title" name="link-title">
+                            <a title='Website link' href='https://www.midomi.com/' target="_blank">
+                            <strong>Find music by sound</strong>
+                            </a>
+                            </h4>
+                            <!-- Subtitle -->
+                            <h6 class="font-weight-bold indigo-text py-2">
+                                <a href="https://www.midomi.com/" title='midomi website' name="link-name" target="_blank">midomi</a>
+                            </h6>
+
+
+                            <!-- Text -->
+                            <p class="card-text" name="link-desc">
+                                Find your song by recording your own voice!
+                            </p>
+
+                            <a href="https://www.midomi.com/" title='Visit website midomi' target="_blank" role="button">
+                                <button type="button" class="btn btn-outline-default btn-rounded waves-effect">
+                                <i class="fas fa-globe-americas"></i> Open website
+                                </button>
+                            </a>
+
+                            <button type="button" onclick="download('midomi', 'https://www.midomi.com/')" class="btn btn-outline-success btn-rounded waves-effect">
+                                <i class="fas fa-download"></i> Download link as file
+                            </button>
+
+                            <br/>
+
+                            <!-- Facebook -->
+                            <a type="button" title="Share on Facebook" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://facebook.com/sharer/sharer.php?u=https://www.midomi.com/" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
+                            <!-- Twitter -->
+                            <a type="button" title="Share on Twitter" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://twitter.com/share?url=https://www.midomi.com/" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
+                            <!-- Whatsapp -->
+                            <a type="button" title="Share on Whatsapp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="https://wa.me/?text=https://www.midomi.com/" class="btn-floating btn-small bg-success"><i class="fab fa-whatsapp"></i></a>
+                            <!-- Linkedin -->
+                            <a type="button" title="Share on Linkedin" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=SomeSize,height=SomeSize');return false;" href="http://www.linkedin.com/shareArticle?url=https://www.midomi.com/" class="btn-floating btn-small bg-primary"><i class="fab fa-linkedin-in"></i></i></a>
+                        </div>
+
+                        <!-- Card footer -->
+                        <div class="card-footer text-muted text-center">
+                            FREE
+                        </div>
+
+                    </div>
+
+                    <!-- Cards List -->
+                </div>
+
+                <p id="no-results" style="display: none" class="text-center grey-text mb-5 mx-auto w-responsive lead">
+                    No results found!
+                </p>
+            </div>
+            <!--Grid row-->
+
+        </section>
+        <!--Section: Features v.2-->
+
+        <hr/>
+
+        <!--Section heading-->
+        <h2 class="font-weight-bold text-center white-text h1 my-5">Contact us</h2>
+        <!--Section description-->
+        <p class="text-center grey-text mb-5 mx-auto w-responsive lead">
+            You can contact us through the following ways:
+        </p>
+
+        <div class="text-center">
+            <a id="email-link" title="" href="" target="_blank" role="button">
+            <button type="button" class="btn btn-outline-primary waves-effect">
+            <i class="fas fa-envelope"></i> Email
+            </button>
+            </a>
+
+            <a href="https://www.youtube.com/channel/UCb2k9lRjuWQaj7tSk4ZUgVg" title="Our YouTube channel" target="_blank" role="button">
+            <button type="button" class="btn btn-outline-danger waves-effect">
+            <i class="fab fa-youtube"></i> YouTube
+            </button>
+            </a>
+        </div>
+
+        <hr/>
+
+        <div class="text-justify">
+        <p class="font-weight-bold pr-4 white-text">
+            You can send us an email via the form below and introduce your suggested website to us, so we can add it to our list
+        </p>
+        </div>
+
+        <div class="card bg-dark">
+
+            <h5 class="card-header info-color white-text text-center py-4">
+                <strong>Suggest adding a website</strong>
+            </h5>
+
+            <!--Card content-->
+            <div class="card-body px-lg-5 pt-0">
+
+                <!-- Form -->
+                <form id="s-form" class="text-center" style="color: #757575;">
+
+                    <!-- Email -->
+                    <div class="md-form">
+                        <input type="text" id="s-link" class="form-control">
+                        <label for="s-link">Website link</label>
+                    </div>
+
+                    <!--Message-->
+                    <div class="md-form">
+                        <textarea id="s-desc" class="form-control md-textarea" rows="3"></textarea>
+                        <label for="s-desc">Website description</label>
+                    </div>
+
+                    <!-- Submit button -->
+                    <button class="btn btn-outline-info btn-rounded btn-block my-4 waves-effect z-depth-0 w-auto" type="submit">
+                        Submit
+                    </button>
+
+                </form>
+                <!-- Form -->
+
+            </div>
+
+        </div>
+
+    </div>
+
+</main>
+<!--Main Layout-->
+
+<!--Footer-->
+<footer class="page-footer pt-4 mt-4 darken-4 mdb-color text-center text-md-left">
+
+    <!--Footer Links-->
+    <div class="container">
+
+        <!--First row-->
+        <div class="row mt-3 mb-4">
+
+            <!--Grid column-->
+            <div class="col-lg-4 text-center">
+                <h5 class="font-weight-bold">
+                    <strong style="font-family: 'Bauhaus 93'; font-size: larger;">
+                        ToolsBox
+                    </strong>
+                </h5>
+            </div>
+            <!--Grid column-->
+
+            <hr class="w-100 clearfix d-lg-none">
+
+            <div class="col-lg-4">
+                <ul class="list-unstyled d-flex justify-content-center mb-0">
+                    <li>
+                        <p class="font-weight-bold text-uppercase pr-4">
+                            <a title="Home page" href="/">home</a>
+                        </p>
+                    </li>
+                </ul>
+            </div>
+
+            <hr class="w-100 clearfix d-lg-none">
+
+        </div>
+        <!--/First row-->
+
+    </div>
+    <!--/Footer Links-->
+
+    <!--Copyright-->
+    <div class="footer-copyright text-center py-3" data-wow-delay="0.3s">
+        <div class="container-fluid">
+            &copy; <span id="copyright-year"></span> Copyright: <a title="ToolsBox website" href="https://toolsbox.w3spaces.com/"> ToolsBox </a>
+        </div>
+    </div>
+    <!--/Copyright-->
+
+</footer>
+<!--/Footer-->
+
+<!-- SCRIPTS -->
+<!-- JQuery -->
+<script type="text/javascript" src="assets/js/jquery.min.js"></script>
+<!-- Bootstrap tooltips -->
+<!--<script type="text/javascript" src="assets/js/popper.min.js"></script>-->
+<!-- Bootstrap core JavaScript -->
+<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+<!-- MDB core JavaScript -->
+<script type="text/javascript" src="assets/js/mdb.min.js"></script>
+<script>
+    const EMAIL = 'funny.tech.2021@gmail.com';
+    const link = document.getElementById('youtubeLink');
+
+    $(document).ready(() => {
+        new WOW().init();
+        $('#copyright-year').html(new Date().getFullYear());
+        $('#email-link').prop('href', 'mailto:' + EMAIL);
+        $('#email-link').prop('title', 'Send email to ' + EMAIL);
+    });
+
+    function downloadFromYoutube() {
+
+        window.open(link.value.replace(/.*?.com/, 'https://youtube5s.com'), '_blank');
+    }
+    link.addEventListener("keyup", function(event) {
+        // Number 13 is the "Enter" key on the keyboard
+        if (event.keyCode === 13) {
+            // Cancel the default action, if needed
+            event.preventDefault();
+            // Trigger the button element with a click
+            downloadFromYoutube();
+        }
+    });
+
+    function download(name, url) {
+        let element = document.createElement('a');
+        const text = `
+<!DOCTYPE html>
+<html>
+<title>${name}<\/title>
+<body><\/body>
+<script>
+location.href='${url}';
+<\/script>
+<\/html>`;
+        element.setAttribute('href', 'data:text/html;charset=utf-8,' + encodeURIComponent(text));
+        element.setAttribute('download', name+'.html');
+
+        element.style.display = 'none';
+        document.body.appendChild(element);
+
+        element.click();
+
+        document.body.removeChild(element);
+    }
+
+    function search(q) {
+
+        q = q.toLowerCase();
+
+        const linkCards = $('[name="link-card"]');
+        const linkTitles = $('[name="link-title"]');
+        const linkDescs = $('[name="link-desc"]');
+        const linkNames = $('[name="link-name"]');
+
+        let empty = true;
+
+        linkCards.each(index => {
+            const t = $(linkTitles.get(index)).text().toLowerCase();
+            const d = $(linkDescs.get(index)).text().toLowerCase();
+            const n = $(linkNames.get(index)).text().toLowerCase();
+
+            if(!t.includes(q) && !d.includes(q) && !n.includes(q)) {
+                $(linkCards.get(index)).hide();
+            }
+            else {
+                $(linkCards.get(index)).show();
+                empty = false;
+            }
+        });
+
+        if(empty) {
+            $('#no-results').show();
+        }
+        else {
+            $('#no-results').hide();
+        }
+    }
+
+    function email() {
+        window.open(`mailto:${EMAIL}?subject=Add website ${$('#s-link').val()}&body=${$('#s-link').val()}: ${$('#s-desc').val()}`);
+    }
+
+    $("#s-form").submit(function(e) {
+        email();
+        return false;
+    });
+</script>
+<!-- SCRIPTS -->
+</body>
+
+</html>
