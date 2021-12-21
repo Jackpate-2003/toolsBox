@@ -6,8 +6,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     echo $_SERVER['HTTP_ORIGIN'];
 
-    if(isset($_SERVER['HTTP_ORIGIN']) && && in_array($_SERVER['HTTP_ORIGIN'], $allowed)) {
-        echo "OK!";
+    if(isset($_SERVER['HTTP_ORIGIN']) && in_array($_SERVER['HTTP_ORIGIN'], $allowed)) {
+        echo "OK!!";
     }
     else {
         echo "NO!";
