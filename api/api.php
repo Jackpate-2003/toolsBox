@@ -26,7 +26,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     if(isset($_SERVER['HTTP_ORIGIN']) && in_array($_SERVER['HTTP_ORIGIN'], $allowed)) {
 
-        $file = "../data/users.txt";
+        $file = "users.txt";
         $current = file_get_contents($file);
         $enc = encrypt('Hello!');
         $current .= $enc;
