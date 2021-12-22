@@ -1,7 +1,17 @@
 <?php header('Access-Control-Allow-Origin: https://tools-box.vercel.app');
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $ip = $_POST['ip'];
+    $url = 'http://ip-api.com/json/';
+
+    $options = array(
+        'http' => array(
+            'method'  => 'GET'
+        )
+    );
+    $context  = stream_context_create($options);
+    $result = file_get_contents($url, false, $context);
+
+    $ip = $result;
     if (empty($ip)) {
         echo "IP is empty!";
     } else {
