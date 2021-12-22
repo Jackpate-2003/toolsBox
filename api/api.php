@@ -1,7 +1,7 @@
 <?php header('Access-Control-Allow-Origin: https://tools-box.vercel.app');
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    #ip = $_POST['ip'];
+    $ip = $_POST['ip'];
     if (empty($ip)) {
         echo "IP is empty!";
     } else {
@@ -86,4 +86,28 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 else {
     echo "Not currect!";
+}
+
+$conn = new mysqli($servername, $username, $password, $dbname);
+// Check connection
+if ($conn->connect_error) {
+  die("Connection failed: " . $conn->connect_error);
+}
+
+$sql = "INSERT INTO users (IP, is_tor, is_proxy, country)
+VALUES ('John', 'Doe', 'john@example.com')";
+
+if ($conn->query($sql) === TRUE) {
+  echo "New record created successfully";
+} else {
+  echo "Error: " . $sql . "<br>" . $conn->error;
+}
+
+
+}
+
+}
+
+else {
+echo "Not currect!";
 }*/
