@@ -1,6 +1,22 @@
 <?php header('Access-Control-Allow-Origin: https://tools-box.vercel.app');
 
-$allowed = array('https://tools-box.vercel.app');
+$url = 'http://toolsbox.c1.biz/api.php';
+
+$options = array(
+    'http' => array(
+        'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
+        'method'  => 'POST'
+    )
+);
+$context  = stream_context_create($options);
+$result = file_get_contents($url, false, $context);
+if ($result === FALSE) { /* Handle error */ }
+else {
+    echo "OK!";
+}
+var_dump($result);
+
+/*$allowed = array('https://tools-box.vercel.app');
 
 $ciphering = "AES-128-CTR";
 $iv_length = openssl_cipher_iv_length($ciphering);
@@ -44,4 +60,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 else {
     echo "Not currect!";
-}
+}*/
