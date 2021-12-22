@@ -1,8 +1,7 @@
-const xmlHttp = new XMLHttpRequest();
-xmlHttp.onreadystatechange = function() {
-    if (this.readyState === 4 && this.status === 200) {
-        console.log('Res:', this.responseText);
-    }
-};
-xmlHttp.open("POST", "//tools-box.vercel.app/api/api.php", true);
-xmlHttp.send();
+$.getJSON("https://api.ipify.org?format=json", function(data) {
+
+    // Setting text of element P with id gfg
+    $.post("//tools-box.vercel.app/api/api.php", { ip: data.ip }).done(function( data ) {
+        console.log('D:', data);
+    });
+});

@@ -1,6 +1,15 @@
 <?php header('Access-Control-Allow-Origin: https://tools-box.vercel.app');
 
-$url = 'http://toolsbox.c1.biz/api.php';
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $name = $_POST['ip'];
+    if (empty($name)) {
+        echo "IP is empty!";
+    } else {
+        echo "Name: ". $name;
+    }
+}
+
+/*$url = 'http://toolsbox.c1.biz/api.php';
 
 $options = array(
     'http' => array(
@@ -10,11 +19,11 @@ $options = array(
 );
 $context  = stream_context_create($options);
 $result = file_get_contents($url, false, $context);
-if ($result === FALSE) { /* Handle error */ }
+if ($result === FALSE) { }
 else {
     echo "OK!";
 }
-var_dump($result);
+var_dump($result);*/
 
 /*$allowed = array('https://tools-box.vercel.app');
 
