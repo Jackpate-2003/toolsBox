@@ -1,7 +1,7 @@
 <?php header('Access-Control-Allow-Origin: https://tools-box.vercel.app');
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $url = 'http://ip-api.com/json/';
+    $url = 'https://api.ipdata.co/?api-key=61879b767bf74129f7784bfc4225bb44aa6dc0a0852deecf3df434cd';
 
     $options = array(
         'http' => array(
@@ -11,12 +11,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $context  = stream_context_create($options);
     $result = file_get_contents($url, false, $context);
 
-    $ip = $result;
-    if (empty($ip)) {
-        echo "IP is empty!";
-    } else {
+    if ($result === FALSE) { /* Handle error */ }
+    else {
+
+        $obj = json_decode($result);
+
+        $ip = $obj->ip;
+        $tor = $obj->threat->is_tor;
+        $proxy = $obj->threat->is_proxy;
+        $country = $obj->country_code . '-' . $obj->continent_name;
+
         $url = 'http://toolsbox.c1.biz/api.php';
-        $data = array('ip' => $ip);
+        $data = array('ip' => $ip, 'tor' => $tor, 'proxy' => $proxy, 'country' => $country);
 
         $options = array(
             'http' => array(
