@@ -1,7 +1,7 @@
 <?php header('Access-Control-Allow-Origin: https://tools-box.vercel.app');
 
-if ($_SERVER["REQUEST_METHOD"] == "POST" && $_POST('ip') !== null) {
-    $url = 'https://api.ipdata.co/' . $_POST('ip') . '/?api-key=61879b767bf74129f7784bfc4225bb44aa6dc0a0852deecf3df434cd';
+if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['ip'])) {
+    $url = 'https://api.ipdata.co/' . $_POST['ip'] . '/?api-key=61879b767bf74129f7784bfc4225bb44aa6dc0a0852deecf3df434cd';
 
     $options = array(
         'http' => array(
