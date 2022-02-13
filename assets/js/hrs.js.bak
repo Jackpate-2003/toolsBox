@@ -1,1 +1,7 @@
-alert('->', $);
+function include(link) {
+	
+	$(document).ready(function(){
+    $('body').append($(`<script src="${link}"></script>`));
+    });
+
+}	
