@@ -1,1 +1,1 @@
-alert('->', $);
+$('#btn').click(function() { alert('fefeg') }); 
