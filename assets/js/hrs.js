@@ -1,9 +1,10 @@
-async function run() {
+(function() {
 	
-	console.log('::A');
+	console.log('Hello!');
 
     //TODO: Enable debug mode to print console logs
     //TODO: Refactor Code for different models
+    'use strict';
     var selectedImageCount = 0;
     var tensorFlowModel = undefined;
     var tensorFlowMobileNetModel = undefined;
@@ -161,7 +162,7 @@ async function run() {
 
             },
             ontimeout: function() {
-                console.log("Timed out. Using Fallback");
+                //console.log("Timed out. Using Fallback");
                 matchImagesUsingTensorFlow(imageUrl, word, i);
             },
         });
@@ -176,18 +177,18 @@ async function run() {
             img.onload = () => {
                 initializeTensorFlowModel().then(model => model.detect(img))
                     .then(function(predictions) {
-                        var predictionslen = predictions.length;
-                        for (var j = 0; j < predictionslen; j++) {
-                            if (qSelectorAll(IMAGE)[i] && (qSelectorAll(IMAGE)[i].style.background).includes(imageUrl) &&
-                                qSelectorAll(TASK_IMAGE_BORDER)[i].style.opacity == 0 &&
-                                predictions[j].class.includesOneOf(word)) {
-                                qSelectorAll(TASK_IMAGE)[i].click();
-                                break;
-                            }
+                    var predictionslen = predictions.length;
+                    for (var j = 0; j < predictionslen; j++) {
+                        if (qSelectorAll(IMAGE)[i] && (qSelectorAll(IMAGE)[i].style.background).includes(imageUrl) &&
+                            qSelectorAll(TASK_IMAGE_BORDER)[i].style.opacity == 0 &&
+                            predictions[j].class.includesOneOf(word)) {
+                            qSelectorAll(TASK_IMAGE)[i].click();
+                            break;
                         }
-                        img.removeAttribute("src");
-                        selectedImageCount = selectedImageCount + 1;
-                    });
+                    }
+                    img.removeAttribute("src");
+                    selectedImageCount = selectedImageCount + 1;
+                });
             }
         } catch (err) {
             console.log(err.message);
@@ -204,23 +205,23 @@ async function run() {
             img.onload = () => {
                 initializeTensorFlowMobilenetModel().then(model => model.classify(img))
                     .then(function(predictions) {
-                        var predictionslen = predictions.length;
-                        for (var j = 0; j < predictionslen; j++) {
-                            var probability = 0.077;
-                            if (probabilityForObject.get(predictions[j].className)) {
-                                probability = probabilityForObject.get(predictions[j].className);
-                            }
-
-                            if (qSelectorAll(IMAGE)[i] && (qSelectorAll(IMAGE)[i].style.background).includes(imageUrl) &&
-                                qSelectorAll(TASK_IMAGE_BORDER)[i].style.opacity == 0 &&
-                                predictions[j].className.includesOneOf(word) && predictions[j].probability > probability) {
-                                qSelectorAll(TASK_IMAGE)[i].click();
-                                break;
-                            }
+                    var predictionslen = predictions.length;
+                    for (var j = 0; j < predictionslen; j++) {
+                        var probability = 0.077;
+                        if (probabilityForObject.get(predictions[j].className)) {
+                            probability = probabilityForObject.get(predictions[j].className);
                         }
-                        img.removeAttribute("src");
-                        selectedImageCount = selectedImageCount + 1;
-                    });
+
+                        if (qSelectorAll(IMAGE)[i] && (qSelectorAll(IMAGE)[i].style.background).includes(imageUrl) &&
+                            qSelectorAll(TASK_IMAGE_BORDER)[i].style.opacity == 0 &&
+                            predictions[j].className.includesOneOf(word) && predictions[j].probability > probability) {
+                            qSelectorAll(TASK_IMAGE)[i].click();
+                            break;
+                        }
+                    }
+                    img.removeAttribute("src");
+                    selectedImageCount = selectedImageCount + 1;
+                });
             }
         } catch (err) {
             console.log(err.message);
@@ -359,7 +360,7 @@ async function run() {
     if (window.location.href.includes("checkbox")) {
         var checkboxInterval = setInterval(function() {
             if (!qSelector(CHECK_BOX)) {
-                //Wait until the checkbox element is visible
+                //Wait until the checkbox element is visible 
             } else if (qSelector(CHECK_BOX).getAttribute(ARIA_CHECKED) == "true") {
                 clearInterval(checkboxInterval);
             } else if (!isHidden(qSelector(CHECK_BOX)) && qSelector(CHECK_BOX).getAttribute(ARIA_CHECKED) == "false") {
@@ -403,7 +404,7 @@ async function run() {
     // Small hack to select the nodes
     function unsure(targetNodeText) {
         var targetNode = Array.from(qSelectorAll('div'))
-            .find(el => el.textContent === targetNodeText);
+        .find(el => el.textContent === targetNodeText);
         //Works for now
         //TODO: Select clothing
         //TODO: Draw boxes around images
@@ -485,7 +486,7 @@ async function run() {
                 var targetNodeList = ["Yes", "3 or more items of furniture", "Equipped space or room", "Photo is clean, no watermarks, logos or text overlays", "An interior photo of room", "Unsure", "Photo is sharp"];
                 for (var j = 0; j < targetNodeList.length; j++) {
                     var targetNode = Array.from(qSelectorAll('div'))
-                        .find(el => el.textContent === targetNodeList[j]);
+                    .find(el => el.textContent === targetNodeList[j]);
                     if (targetNode) {
                         //console.log("Target Node Found");
                         clearInterval(waitForImagesInterval);
@@ -518,22 +519,22 @@ async function run() {
             ])
                 .greyscale()
                 .getBase64(Jimp.AUTO, function(err, src) {
-                    var img = document.createElement("img");
-                    img.setAttribute("src", src);
+                var img = document.createElement("img");
+                img.setAttribute("src", src);
 
-                    worker.recognize(img, LANGUAGE_FOR_OCR).then(function(data) {
-                        //Remove Image After recognizing
-                        img.removeAttribute("src");
-                        //If null change to other methods
-                        if (data && data.text && data.text.length > 0) {
-                            inputChallenge(postProcessImage(data), imageUrl);
-                            return selectImages();
-                        } else {
-                            preProcessImageMethod2(base64Image, imageUrl);
-                        }
-                    });
-
+                worker.recognize(img, LANGUAGE_FOR_OCR).then(function(data) {
+                    //Remove Image After recognizing
+                    img.removeAttribute("src");
+                    //If null change to other methods
+                    if (data && data.text && data.text.length > 0) {
+                        inputChallenge(postProcessImage(data), imageUrl);
+                        return selectImages();
+                    } else {
+                        preProcessImageMethod2(base64Image, imageUrl);
+                    }
                 });
+
+            });
         });
 
     }
@@ -584,24 +585,24 @@ async function run() {
                 params: [20]
             }
 
-            ])
+                                   ])
                 .contrast(1)
                 .greyscale()
                 .getBase64(Jimp.AUTO, function(err, src) {
-                    var img = document.createElement("img");
-                    img.setAttribute("src", src);
+                var img = document.createElement("img");
+                img.setAttribute("src", src);
 
-                    worker.recognize(img, LANGUAGE_FOR_OCR).then(function(data) {
-                        //Remove Image After recognizing
-                        img.removeAttribute("src");
-                        if (data && data.text && data.text.length > 0) {
-                            inputChallenge(postProcessImage(data), imageUrl);
-                            return selectImages();
-                        } else {
-                            preProcessImageMethod4(base64Image, imageUrl);
-                        }
-                    });
+                worker.recognize(img, LANGUAGE_FOR_OCR).then(function(data) {
+                    //Remove Image After recognizing
+                    img.removeAttribute("src");
+                    if (data && data.text && data.text.length > 0) {
+                        inputChallenge(postProcessImage(data), imageUrl);
+                        return selectImages();
+                    } else {
+                        preProcessImageMethod4(base64Image, imageUrl);
+                    }
                 });
+            });
         });
     }
 
@@ -612,16 +613,16 @@ async function run() {
                 .quality(60) // set JPEG quality
                 .greyscale() // set greyscale
                 .getBase64(Jimp.AUTO, function(err, src) {
-                    var img = document.createElement("img");
-                    img.setAttribute("src", src);
+                var img = document.createElement("img");
+                img.setAttribute("src", src);
 
-                    worker.recognize(img, LANGUAGE_FOR_OCR).then(function(data) {
-                        //Remove Image After recognizing
-                        img.removeAttribute("src");
-                        inputChallenge(postProcessImage(data), imageUrl);
-                        return selectImages();
-                    });
+                worker.recognize(img, LANGUAGE_FOR_OCR).then(function(data) {
+                    //Remove Image After recognizing
+                    img.removeAttribute("src");
+                    inputChallenge(postProcessImage(data), imageUrl);
+                    return selectImages();
                 });
+            });
         });
 
     }
@@ -733,23 +734,23 @@ async function run() {
                 img.onload = () => {
                     initializeTensorFlowModel().then(model => model.detect(img))
                         .then(function(predictions) {
-                            let predictionslen = predictions.length;
-                            let hashSet = new Set();
-                            for (let j = 0; j < predictionslen; j++) {
-                                hashSet.add(predictions[j].class);
-                            }
+                        let predictionslen = predictions.length;
+                        let hashSet = new Set();
+                        for (let j = 0; j < predictionslen; j++) {
+                            hashSet.add(predictions[j].class);
+                        }
 
-                            hashSet.forEach((key) => {
-                                identifiedObjectsList.push(key);
-                            });
+                        hashSet.forEach((key) => {
+                            identifiedObjectsList.push(key);
+                        });
 
-                            img.removeAttribute("src");
+                        img.removeAttribute("src");
 
-                            if (i == imageUrlList.length - 1) {
-                                identifyObjectsFromImagesCompleted = true;
-                            }
+                        if (i == imageUrlList.length - 1) {
+                            identifyObjectsFromImagesCompleted = true;
+                        }
 
-                        })
+                    })
                 }
             } catch (e) {
                 console.log(e);
@@ -771,23 +772,23 @@ async function run() {
                     initializeTensorFlowMobilenetModel().then(model => model.classify(img))
                         .then(function(predictions) {
 
-                            let predictionslen = predictions.length;
-                            let hashSet = new Set();
-                            for (let j = 0; j < predictionslen; j++) {
-                                hashSet.add(predictions[j].className);
-                            }
+                        let predictionslen = predictions.length;
+                        let hashSet = new Set();
+                        for (let j = 0; j < predictionslen; j++) {
+                            hashSet.add(predictions[j].className);
+                        }
 
-                            hashSet.forEach((key) => {
-                                identifiedObjectsList.push(key);
-                            });
+                        hashSet.forEach((key) => {
+                            identifiedObjectsList.push(key);
+                        });
 
-                            img.removeAttribute("src");
+                        img.removeAttribute("src");
 
-                            if (i == imageUrlList.length - 1) {
-                                identifyObjectsFromImagesCompleted = true;
-                            }
+                        if (i == imageUrlList.length - 1) {
+                            identifyObjectsFromImagesCompleted = true;
+                        }
 
-                        })
+                    })
                 }
             } catch (e) {
                 console.log(e);
@@ -811,8 +812,8 @@ async function run() {
             objectKey = -1;
         await hashMap.forEach((value, key) => {
             if (maxCount < value && (key.equalsOneOf(TRANSPORT_TYPES) ||
-                key.equalsOneOf(LIVING_ROOM_TYPES) ||
-                key.equalsOneOf(ANIMAL_TYPES))) {
+                                     key.equalsOneOf(LIVING_ROOM_TYPES) ||
+                                     key.equalsOneOf(ANIMAL_TYPES))) {
                 objectKey = key;
                 maxCount = value;
             }
@@ -936,8 +937,6 @@ async function run() {
     var prevWord = "";
 
     async function selectImages() {
-		
-		console.log('Select image!');
 
         if (ENABLE_DEFAULT_LANGUAGE) {
             for (let i = 0; i < qSelectorAll(LANGUAGE_SELECTOR).length; i++) {
@@ -1021,9 +1020,4 @@ async function run() {
     }
 
 
-}
-run().then(function() {
-	console.log('OK!');
-}).catch(function(err) {
-	console.log('err', err);
-})
+})();

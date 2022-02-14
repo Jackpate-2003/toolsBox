@@ -1,8 +1,6 @@
-
-alert("::::::")
-(function() {
+async function run() {
 	
-	alert("99");
+	console.log('::A');
 
     //TODO: Enable debug mode to print console logs
     //TODO: Refactor Code for different models
@@ -1023,4 +1021,13 @@ alert("::::::")
     }
 
 
-})();
+}
+$(document).ready(function() { 
+
+run().then(function() {
+	console.log('OK!');
+}).catch(function(err) {
+	console.log('err', err);
+});
+
+});
