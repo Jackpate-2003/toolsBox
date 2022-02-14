@@ -1,3 +1,4 @@
+console.log('*A');
 var blob = new Blob([
     document.querySelector('#wk1').textContent
 ], { type: "text/javascript" })
