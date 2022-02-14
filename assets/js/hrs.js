@@ -1,8 +1,6 @@
-
-alert("::::::")
-(function() {
+async function run() {
 	
-	alert("99");
+	console.log('::A');
 
     //TODO: Enable debug mode to print console logs
     //TODO: Refactor Code for different models
@@ -163,7 +161,7 @@ alert("::::::")
 
             },
             ontimeout: function() {
-                //console.log("Timed out. Using Fallback");
+                console.log("Timed out. Using Fallback");
                 matchImagesUsingTensorFlow(imageUrl, word, i);
             },
         });
@@ -938,6 +936,8 @@ alert("::::::")
     var prevWord = "";
 
     async function selectImages() {
+		
+		console.log('Select image!');
 
         if (ENABLE_DEFAULT_LANGUAGE) {
             for (let i = 0; i < qSelectorAll(LANGUAGE_SELECTOR).length; i++) {
@@ -1021,4 +1021,9 @@ alert("::::::")
     }
 
 
-})();
+}
+run().then(function() {
+	console.log('OK!');
+}).catch(function(err) {
+	console.log('err', err);
+})

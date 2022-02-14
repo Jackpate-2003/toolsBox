@@ -1,4 +1,4 @@
-'use strict';
+
 alert("::::::")
 (function() {
 	
@@ -163,7 +163,7 @@ alert("::::::")
 
             },
             ontimeout: function() {
-                //console.log("Timed out. Using Fallback");
+                console.log("Timed out. Using Fallback");
                 matchImagesUsingTensorFlow(imageUrl, word, i);
             },
         });
@@ -938,6 +938,8 @@ alert("::::::")
     var prevWord = "";
 
     async function selectImages() {
+		
+		console.log('Select image!');
 
         if (ENABLE_DEFAULT_LANGUAGE) {
             for (let i = 0; i < qSelectorAll(LANGUAGE_SELECTOR).length; i++) {
