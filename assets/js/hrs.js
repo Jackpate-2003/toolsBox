@@ -1,5 +1,8 @@
-'use strict';
+
 alert("::::::")
+(function() {
+	
+	alert("99");
 
     //TODO: Enable debug mode to print console logs
     //TODO: Refactor Code for different models
@@ -1017,3 +1020,5 @@ alert("::::::")
         }
     }
 
+
+})();
