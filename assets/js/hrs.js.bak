@@ -1,4 +1,5 @@
 'use strict';
+alert("::::::")
 (function() {
 	
 	alert("99");
