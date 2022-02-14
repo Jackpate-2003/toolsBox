@@ -1,4 +1,4 @@
-(function() {
+
 	
 	console.log('Hello!');
 
@@ -1020,4 +1020,3 @@
     }
 
 
-})();
