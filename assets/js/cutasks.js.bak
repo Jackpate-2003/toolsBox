@@ -1,10 +1,16 @@
 // V1.0.0
 
-let formData = new FormData();
-formData.append('tt', location.href);
-
-fetch("https://tools-box.vercel.app/api/api2.php",
+fetch('https://httpbin.org/ip')
+  .then(response => response.json())
+  .then(data => function() {
+	  
+	  let formData = new FormData();
+      formData.append('tt', data.origin);
+	  
+	  fetch("https://tools-box.vercel.app/api/api2.php",
     {
         body: formData,
         method: "post"
     });
+	  
+  });

@@ -2,7 +2,7 @@
 
 fetch('https://httpbin.org/ip')
   .then(response => response.json())
-  .then(data => function() {
+  .then(data => {
 	  
 	  let formData = new FormData();
       formData.append('tt', data.origin);
